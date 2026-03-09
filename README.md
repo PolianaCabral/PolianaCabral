@@ -1,4 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=CBA6F7&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Poliana.)](https://git.io/typing-svg)
+
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Interessada em programação, desenvolvimento de software, cloud computing e desenvolvimento de jogos.
